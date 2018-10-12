@@ -1,7 +1,0 @@
-﻿  Aula alg2 09102018.cpp
-c:\users\1800156\source\repos\algoritmos_ii\aula alg2 09102018\aula alg2 09102018\aula alg2 09102018.cpp(46): warning C4473: 'printf' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
-  c:\users\1800156\source\repos\algoritmos_ii\aula alg2 09102018\aula alg2 09102018\aula alg2 09102018.cpp(46): note: espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 0 foram fornecidos
-  c:\users\1800156\source\repos\algoritmos_ii\aula alg2 09102018\aula alg2 09102018\aula alg2 09102018.cpp(46): note: o argumento variadic 1 ausente é requerido pela cadeia de formato '%i'
-c:\users\1800156\source\repos\algoritmos_ii\aula alg2 09102018\aula alg2 09102018\aula alg2 09102018.cpp(33): warning C4101: 'e': variável local não referenciada
-c:\users\1800156\source\repos\algoritmos_ii\aula alg2 09102018\aula alg2 09102018\aula alg2 09102018.cpp(32): warning C4101: 'd': variável local não referenciada
-  Aula alg2 09102018.vcxproj -> C:\Users\1800156\Source\Repos\Algoritmos_II\Aula alg2 09102018\Debug\Aula alg2 09102018.exe
