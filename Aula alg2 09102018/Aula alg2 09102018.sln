@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula alg 2 16102018__condic
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula alg 2 18102018_condicionais", "Aula alg 2 18102018_condicionais\Aula alg 2 18102018_condicionais.vcxproj", "{BA2D517F-2151-4FB4-B1A7-15EBF8ED42AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "aula alg2 23102018_condicionais", "aula alg2 23102018_condicionais\aula alg2 23102018_condicionais.vcxproj", "{3ADE3302-37B9-4DDD-855A-8F00CE861933}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{BA2D517F-2151-4FB4-B1A7-15EBF8ED42AF}.Release|x64.Build.0 = Release|x64
 		{BA2D517F-2151-4FB4-B1A7-15EBF8ED42AF}.Release|x86.ActiveCfg = Release|Win32
 		{BA2D517F-2151-4FB4-B1A7-15EBF8ED42AF}.Release|x86.Build.0 = Release|Win32
+		{3ADE3302-37B9-4DDD-855A-8F00CE861933}.Debug|x64.ActiveCfg = Debug|x64
+		{3ADE3302-37B9-4DDD-855A-8F00CE861933}.Debug|x64.Build.0 = Debug|x64
+		{3ADE3302-37B9-4DDD-855A-8F00CE861933}.Debug|x86.ActiveCfg = Debug|Win32
+		{3ADE3302-37B9-4DDD-855A-8F00CE861933}.Debug|x86.Build.0 = Debug|Win32
+		{3ADE3302-37B9-4DDD-855A-8F00CE861933}.Release|x64.ActiveCfg = Release|x64
+		{3ADE3302-37B9-4DDD-855A-8F00CE861933}.Release|x64.Build.0 = Release|x64
+		{3ADE3302-37B9-4DDD-855A-8F00CE861933}.Release|x86.ActiveCfg = Release|Win32
+		{3ADE3302-37B9-4DDD-855A-8F00CE861933}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
