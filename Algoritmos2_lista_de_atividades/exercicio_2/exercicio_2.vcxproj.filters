@@ -26,9 +26,6 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="Algoritmos2_lista_de_atividades.cpp">
-      <Filter>Arquivos de Origem</Filter>
-    </ClCompile>
     <ClCompile Include="exercicio_2.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
