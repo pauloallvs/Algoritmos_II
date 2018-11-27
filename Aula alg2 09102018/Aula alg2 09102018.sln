@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exercicios complementares",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula alg 2  20112018_Recursividade", "Aula 20112018_Recursividade\Aula 20112018_Recursividade.vcxproj", "{A113837C-8C05-4599-AE66-50F57E8356E4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algoritmos2_exercicio2", "Algoritmos2_exercicio2\Algoritmos2_exercicio2.vcxproj", "{6851641E-F9ED-4490-9D35-16A2EB21531E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{A113837C-8C05-4599-AE66-50F57E8356E4}.Release|x64.Build.0 = Release|x64
 		{A113837C-8C05-4599-AE66-50F57E8356E4}.Release|x86.ActiveCfg = Release|Win32
 		{A113837C-8C05-4599-AE66-50F57E8356E4}.Release|x86.Build.0 = Release|Win32
+		{6851641E-F9ED-4490-9D35-16A2EB21531E}.Debug|x64.ActiveCfg = Debug|x64
+		{6851641E-F9ED-4490-9D35-16A2EB21531E}.Debug|x64.Build.0 = Debug|x64
+		{6851641E-F9ED-4490-9D35-16A2EB21531E}.Debug|x86.ActiveCfg = Debug|Win32
+		{6851641E-F9ED-4490-9D35-16A2EB21531E}.Debug|x86.Build.0 = Debug|Win32
+		{6851641E-F9ED-4490-9D35-16A2EB21531E}.Release|x64.ActiveCfg = Release|x64
+		{6851641E-F9ED-4490-9D35-16A2EB21531E}.Release|x64.Build.0 = Release|x64
+		{6851641E-F9ED-4490-9D35-16A2EB21531E}.Release|x86.ActiveCfg = Release|Win32
+		{6851641E-F9ED-4490-9D35-16A2EB21531E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
